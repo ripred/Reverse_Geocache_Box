@@ -24,7 +24,7 @@ This can be built using pretty much any Atmel microcontroller including ATTiny85
 * Serial GPS module
 
 ### Optional
-* Solid state power button (https://www.adafruit.com/product/1400)
+* Solid state power button (https://www.adafruit.com/product/1400) NOT SHOWN IN SCHEMATIC!
 * 2W tiny speaker. You could also use a piezo disc.
 * Audio amplifier module
 * resistors, capacitors, wire
