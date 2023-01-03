@@ -9,7 +9,7 @@ When they finally arrive at the correct location the box unlocks to present any 
 
 ### Arduino Project Parts
 
-This can be built using pretty much any Atmel microcontroller including ATTiny85's if you only implement the LCD, Servo, and SoftwareSerial that talks to the GPS module, and the GPS module itself. All other parts are optional.
+This can be built using pretty much any Atmel microcontroller including ATTiny85's if you only implement the LiquidCrystal_I2C, PWMServo, and SoftwareSerial that talks to the GPS module, and the GPS module itself. All other parts are optional.
 
 ### Required
 * Wooden craft box from a craft/hobby store. Pick any size and shape, there are a lot of great choices that make good project boxes.
