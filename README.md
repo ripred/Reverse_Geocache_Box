@@ -27,4 +27,4 @@ This can be built using pretty much any Atmel microcontroller including ATTiny85
 * Audio amplifier module
 * resistors, capacitors, wire
 
-![schematic](ReverseGeocacheBoxSchem.png)
+![schematic](ReverseGeocacheBoxSchem1.png)
