@@ -20,7 +20,7 @@ This can be built using pretty much any Atmel microcontroller including ATTiny85
 * 0.1 µF ceramic capacitor
 * 100 µF electrolytic capacitor
 * [Arduino Uno, Nano or any other Atmel processor with at least 4 pins available](https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923/). 1 pin is needed for the servo, 1 pin is needed for the serial Rx from the GPS module, and 2 pins are needed for the I2C bus. On Uno, Nano and Arduino platforms larger than ATTiny85 you can also use up to 8 pins to play polyphonic MIDI music as I have done here, 2 pins are used as a secret backdoor so that as a developer you don't lock yourself out of the box!
-* [1602 Liquid Crystal I2C display](https://www.amazon.com/HiLetgo-Interface-LCD1602-Address-Changeable/dp/B00VC2NEU8/)
+* [1602 Liquid Crystal I2C display](https://www.amazon.com/GeeekPi-Character-Backlight-Raspberry-Electrical/dp/B07S7PJYM6/)
 * Small Servo. I used [a metal gear digital mg90](https://www.walmart.com/ip/MG90-UAV-RC-Model-Servo-Servo-Fixed-Wing-9G-Metal-Teeth-Mini-Digital-Servo-Servo-for-Rc-Helicopter-Airplane-Boat-Car/1781823832).
 * [Serial GPS module](https://www.amazon.com/Microcontroller-Compatible-Sensitivity-Navigation-Positioning/dp/B07P8YMVNT/)
 
