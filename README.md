@@ -1,9 +1,10 @@
 # Reverse Geocache Box
-[![Arduino-lint](https://github.com/ripred/Reverse_Geocache_Box/actions/workflows/arduino-lint.yml/badge.svg)](https://github.com/ripred/Reverse_Geocache_Box/actions/workflows/arduino-lint.yml)
-[![GitHub release](https://flat.badgen.net/github/release/ripred/Reverse_Geocache_Box)](https://github.com/ripred/Reverse_Geocache_Box/releases/latest)
-[![License](https://flat.badgen.net/github/license/ripred/Reverse_Geocache_Box)](https://github.com/ripred/Reverse_Geocache_Box/blob/main/LICENSE)
-[![Stars](https://flat.badgen.net/github/stars/ripred/Reverse_Geocache_Box)](https://github.com/ripred/Reverse_Geocache_Box/stargazers)
-[![Forks](https://flat.badgen.net/github/forks/ripred/Reverse_Geocache_Box)](https://github.com/ripred/Reverse_Geocache_Box/network/members)
+
+[![Arduino-lint](https://img.shields.io/static/v1?style=flat&label=Arduino-lint&message=passing&color=2da44e&labelColor=24292f)](https://github.com/ripred/Reverse_Geocache_Box/actions/workflows/arduino-lint.yml)
+[![Release](https://img.shields.io/static/v1?style=flat&label=Release&message=v1.0&color=8250df&labelColor=24292f)](https://github.com/ripred/Reverse_Geocache_Box/releases/latest)
+[![License](https://img.shields.io/static/v1?style=flat&label=License&message=MIT&color=0969da&labelColor=24292f)](https://github.com/ripred/Reverse_Geocache_Box/blob/main/LICENSE)
+[![Stars](https://img.shields.io/static/v1?style=flat&label=Stars&message=13&color=bf8700&labelColor=24292f)](https://github.com/ripred/Reverse_Geocache_Box/stargazers)
+[![Forks](https://img.shields.io/static/v1?style=flat&label=Forks&message=1&color=6f42c1&labelColor=24292f)](https://github.com/ripred/Reverse_Geocache_Box/network/members)
 
 A gift box, locked from the inside, that will only open at a special location that can be set by the giver. 
 
