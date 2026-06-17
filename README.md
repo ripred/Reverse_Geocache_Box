@@ -1,4 +1,10 @@
 # Reverse Geocache Box
+[![Arduino-lint](https://github.com/ripred/Reverse_Geocache_Box/actions/workflows/arduino-lint.yml/badge.svg)](https://github.com/ripred/Reverse_Geocache_Box/actions/workflows/arduino-lint.yml)
+[![GitHub release](https://flat.badgen.net/github/release/ripred/Reverse_Geocache_Box)](https://github.com/ripred/Reverse_Geocache_Box/releases/latest)
+[![License](https://flat.badgen.net/github/license/ripred/Reverse_Geocache_Box)](https://github.com/ripred/Reverse_Geocache_Box/blob/main/LICENSE)
+[![Stars](https://flat.badgen.net/github/stars/ripred/Reverse_Geocache_Box)](https://github.com/ripred/Reverse_Geocache_Box/stargazers)
+[![Forks](https://flat.badgen.net/github/forks/ripred/Reverse_Geocache_Box)](https://github.com/ripred/Reverse_Geocache_Box/network/members)
+
 A gift box, locked from the inside, that will only open at a special location that can be set by the giver. 
 
 When the button is pressed the box displays how far away they currently are. They must travel a few miles and check again to see if they are getting closer or further away from the destination! The receiver of the box only has so many tries to triangulate in on the special location.
